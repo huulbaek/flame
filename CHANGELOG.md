@@ -1,6 +1,7 @@
 # CHANGELOG
 
 ## [next]
+- Adding AssetsCache.readBinaryFile
 
 ## 0.20.2
 - Fix text component bug with anchor being applied twice
