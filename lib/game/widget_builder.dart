@@ -147,7 +147,7 @@ class WidgetBuilder {
           : null,
 
       child: Container(
-          color: game.backgroundColor(),
+          // color: game.backgroundColor(),
           child: Directionality(
               textDirection: TextDirection.ltr,
               child: EmbeddedGameWidget(game))),
